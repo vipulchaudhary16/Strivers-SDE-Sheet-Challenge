@@ -67,5 +67,10 @@ int findDuplicate(vector<int> &arr, int n){
 
   // return the duplicate element, which is the starting point of the cycle
   return slow;
+
+  /*
+  TC: O(n)
+  SC: O(1)
+  */
 }
 ```

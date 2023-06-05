@@ -26,3 +26,14 @@ It was birthday of one of my friend, so we had pizza party. I ate a lot of pizza
 2. [Find Duplicate in Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_8230816?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 3. [Merge Intervals](https://www.codingninjas.com/codestudio/problems/merge-intervals_8230700?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 4. [Merge Two Sorted Arrays](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-arrays_8230835?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Find Duplicate in Array](https://www.codingninjas.com/codestudio/problems/find-duplicate-in-array_8230816?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [Missing and repeating numbers](https://www.codingninjas.com/codestudio/problems/missing-and-repeating-numbers_8230733?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+7. [Count Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_8230680?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+8. [Search In A 2D Matrix](https://www.codingninjas.com/codestudio/problems/search-in-a-2d-matrix_8230773?challengeSlug=striver-sde-challenge)
+9. [Majority element](https://www.codingninjas.com/codestudio/problems/day-6-majority-element_8230731?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I have done 9 questions. Last night I slept a bit early so I woke up early. I was able to do more questions today. Solved 3 questions in morning, 3 in noon and 3 in evening, feeling good. Now I will learn some reactjs and then sleep. I'm not following sequence some time cause I need to solve easy question to start solving. Good Night.
+
+-- 5th June 2023, 09:53 PM
