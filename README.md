@@ -45,3 +45,10 @@ Today I have done 9 questions. Last night I slept a bit early so I woke up early
 3. [Unique Paths](https://www.codingninjas.com/codestudio/problems/unique-paths_8230802?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 4. [Reverse Pairs](https://www.codingninjas.com/codestudio/problems/reverse-pairs_8230825?challengeSlug=striver-sde-challenge)
 5. [Two Sum](https://leetcode.com/problems/two-sum/) and [Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge)
+6. [Find Four Elements That Sums To A Given Value](https://www.codingninjas.com/codestudio/problems/find-four-elements-that-sums-to-a-given-value_8230785?challengeSlug=striver-sde-challenge&leftPanelTab=0) and [4 Sum](https://leetcode.com/problems/4sum/)
+
+Today's Story:
+
+Today I have done 6 questions. It was my first day at internship, so I attended the orientation session and then I was given a brain strome task. I solved it and made a document for the same. Solved 2 questions in morning, 3 in noon and 1 in evening. Now I will practice some reactjs and then sleep. Good Night.
+
+-- 6th June 2023, 11:00 PM
