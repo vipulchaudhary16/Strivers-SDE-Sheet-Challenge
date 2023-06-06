@@ -42,3 +42,6 @@ Today I have done 9 questions. Last night I slept a bit early so I woke up early
 
 1. [Modular Exponentiation](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_8230803?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 2. [Majority Element - II](https://www.codingninjas.com/codestudio/problems/majority-element-ii_8230738?challengeSlug=striver-sde-challenge)
+3. [Unique Paths](https://www.codingninjas.com/codestudio/problems/unique-paths_8230802?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Reverse Pairs](https://www.codingninjas.com/codestudio/problems/reverse-pairs_8230825?challengeSlug=striver-sde-challenge)
+5. [Two Sum](https://leetcode.com/problems/two-sum/) and [Pair Sum](https://www.codingninjas.com/codestudio/problems/pair-sum_8230699?challengeSlug=striver-sde-challenge)
