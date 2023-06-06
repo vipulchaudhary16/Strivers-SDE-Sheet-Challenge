@@ -37,3 +37,8 @@ Today's Story:
 Today I have done 9 questions. Last night I slept a bit early so I woke up early. I was able to do more questions today. Solved 3 questions in morning, 3 in noon and 3 in evening, feeling good. Now I will learn some reactjs and then sleep. I'm not following sequence some time cause I need to solve easy question to start solving. Good Night.
 
 -- 5th June 2023, 09:53 PM
+
+## Day 3 (6th June 2023):
+
+1. [Modular Exponentiation](https://www.codingninjas.com/codestudio/problems/modular-exponentiation_8230803?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Majority Element - II](https://www.codingninjas.com/codestudio/problems/majority-element-ii_8230738?challengeSlug=striver-sde-challenge)
