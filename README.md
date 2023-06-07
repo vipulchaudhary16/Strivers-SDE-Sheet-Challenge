@@ -52,3 +52,20 @@ Today's Story:
 Today I have done 6 questions. It was my first day at internship, so I attended the orientation session and then I was given a brain strome task. I solved it and made a document for the same. Solved 2 questions in morning, 3 in noon and 1 in evening. Now I will practice some reactjs and then sleep. Good Night.
 
 -- 6th June 2023, 11:00 PM
+
+## Day 4 (7th June 2023):
+
+1. [Longest Consecutive Sequence](https://www.codingninjas.com/codestudio/problems/longest-consecutive-sequence_8230708?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Longest Subarray Zero Sum](https://www.codingninjas.com/codestudio/problems/longest-subarray-zero-sum_8230747?challengeSlug=striver-sde-challenge)
+3. [Count Subarrays with Given XOR](https://www.codingninjas.com/codestudio/problems/count-subarrays-with-given-xor_8230830?challengeSlug=striver-sde-challenge)
+4. [Longest Substring Without Repeating Characters](https://www.codingninjas.com/codestudio/problems/longest-substring-without-repeating-characters_8230684?challengeSlug=striver-sde-challenge)
+5. [Reverse Linked List](https://www.codingninjas.com/codestudio/problems/reverse-linked-list_8230724?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [Middle Of Linked List](https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_8230764?challengeSlug=striver-sde-challenge)
+7. [Merge Two Sorted Linked Lists](https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_8230729?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 7 questions, 3 of them are LL questions and I love them. Solved 2 in morning, 2 in noon and 3 in evening. at evening was feeling bit lazy so also seen 2 episode of The Boys series. I think now i'm done with today, will start tomorrow with some LL questions. Good Night.
+
+-- 7th June 2023, 11:05 PM
+
