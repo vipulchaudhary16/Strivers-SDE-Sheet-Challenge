@@ -77,3 +77,9 @@ Today I solved 7 questions, 3 of them are LL questions and I love them. Solved 2
 4. [Intersection of Two Linked Lists](https://www.codingninjas.com/codestudio/problems/intersection-of-two-linked-lists_8230688?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 5. [Cycle Detection in a Singly Linked List](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_8230683?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 
+Today's Story:
+
+Today I solved 5 questions, all of them are LL questions. Solved 2 in morning, 2 in noon and 1 in evening. I was feeling bit lazy today, and at evening I was out for dosa dinner. so I was not able to solve more questions. I will try to solve more questions tomorrow. Good Night.
+
+-- 8th June 2023, 11:10 PM
+
