@@ -69,3 +69,11 @@ Today I solved 7 questions, 3 of them are LL questions and I love them. Solved 2
 
 -- 7th June 2023, 11:05 PM
 
+## Day 5 (8th June 2023):
+
+1. [Delete Kth Node From End](https://www.codingninjas.com/codestudio/problems/delete-kth-node-from-end_8230725?challengeSlug=striver-sde-challenge)
+2. [Add Two Numbers](https://www.codingninjas.com/codestudio/problems/add-two-numbers-as-linked-lists_8230833?challengeSlug=striver-sde-challenge)
+3. [Delete Node In A Linked List](https://www.codingninjas.com/codestudio/problems/delete-node-in-a-linked-list_8230813?challengeSlug=striver-sde-challenge)
+4. [Intersection of Two Linked Lists](https://www.codingninjas.com/codestudio/problems/intersection-of-two-linked-lists_8230688?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Cycle Detection in a Singly Linked List](https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_8230683?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
