@@ -83,3 +83,14 @@ Today I solved 5 questions, all of them are LL questions. Solved 2 in morning, 2
 
 -- 8th June 2023, 11:10 PM
 
+## Day 6 (9th June 2023):
+
+1. [LeetCode - Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) and [Reverse Nodes in k-Group](https://www.codingninjas.com/codestudio/problems/reverse-nodes-in-k-group_8230709?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Palindrome Linked List](https://www.codingninjas.com/codestudio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Linked List Cycle II](https://www.codingninjas.com/codestudio/problems/linked-list-cycle-ii_8230823?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Flatten A Linked List](https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_8230827?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 4 questions, woke up late today. Solved 2 in noon, 2 in evening. In noon was feeling bit sleepy so took a small power nap. at night watched a movie. Now I will start with flutter as I need to learn it for my internship. Good Night.
+
