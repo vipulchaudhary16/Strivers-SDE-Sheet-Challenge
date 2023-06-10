@@ -94,3 +94,20 @@ Today's Story:
 
 Today I solved 4 questions, woke up late today. Solved 2 in noon, 2 in evening. In noon was feeling bit sleepy so took a small power nap. at night watched a movie. Now I will start with flutter as I need to learn it for my internship. Good Night.
 
+-- 9th June 2023, 11:15 PM
+
+## Day 7 (10th June 2023):
+
+1. [Rotate Linked List](https://www.codingninjas.com/codestudio/problems/rotate-linked-list_8230752?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Copy List with Random Pointer](https://www.codingninjas.com/codestudio/problems/copy-list-with-random-pointer_8230734?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [3Sum](https://www.codingninjas.com/codestudio/problems/3sum_8230739?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Trapping Rain Water](https://www.codingninjas.com/codestudio/problems/trapping-rain-water_8230693?challengeSlug=striver-sde-challenge)
+5. [Remove Duplicates from Sorted Array](https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_8230811?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [Maximum Consecutive Ones](https://www.codingninjas.com/codestudio/problems/maximum-consecutive-ones_8230736?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 6 questions, last night I slept late so was not able to wake up early, woke up at 9 and then I had to take interviews of some candidates for committee at my college. So was not able to touch questions till 3 PM, then I solved 3 questions in noon and 3 in evening. after that I learned some flutter. Now I'm planning to watch a movie and then sleep. Good Night.
+
+-- 10th June 2023, 10:25 PM
+
