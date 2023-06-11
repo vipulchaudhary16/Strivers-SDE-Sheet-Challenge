@@ -49,7 +49,7 @@ Today I have done 9 questions. Last night I slept a bit early so I woke up early
 
 Today's Story:
 
-Today I have done 6 questions. It was my first day at internship, so I attended the orientation session and then I was given a brain strome task. I solved it and made a document for the same. Solved 2 questions in morning, 3 in noon and 1 in evening. Now I will practice some reactjs and then sleep. Good Night.
+Today I have done 6 questions. It was my first day at internship, so I attended the orientation session and then I was given a brain storm task. I solved it and made a document for the same. Solved 2 questions in morning, 3 in noon and 1 in evening. Now I will practice some reactjs and then sleep. Good Night.
 
 -- 6th June 2023, 11:00 PM
 
@@ -110,4 +110,12 @@ Today's Story:
 Today I solved 6 questions, last night I slept late so was not able to wake up early, woke up at 9 and then I had to take interviews of some candidates for committee at my college. So was not able to touch questions till 3 PM, then I solved 3 questions in noon and 3 in evening. after that I learned some flutter. Now I'm planning to watch a movie and then sleep. Good Night.
 
 -- 10th June 2023, 10:25 PM
+
+## Day 8 (11th June 2023):
+
+1. [Maximum meetings](https://www.codingninjas.com/codestudio/problems/maximum-meetings_8230795?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 1 question only, that is just to continue the streak on platform. It was sunday, so decided to take a break and watch WTC final and some series. Now I will read something or watch some series and then sleep. see you tomorrow with great energy. Good Night.
 
