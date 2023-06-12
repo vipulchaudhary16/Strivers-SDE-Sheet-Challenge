@@ -119,3 +119,19 @@ Today's Story:
 
 Today I solved 1 question only, that is just to continue the streak on platform. It was sunday, so decided to take a break and watch WTC final and some series. Now I will read something or watch some series and then sleep. see you tomorrow with great energy. Good Night.
 
+-- 11th June 2023, 09:30 PM
+
+## Day 9 (12th June 2023):
+
+1. [Minimum Number of Platforms](https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_8230720?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Job Sequencing Problem](https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_8230832?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Fractional Knapsack](https://www.codingninjas.com/codestudio/problems/fractional-knapsack_8230767?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Find Minimum Number Of Coins](https://www.codingninjas.com/codestudio/problems/find-minimum-number-of-coins_8230766?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Maximum activities](https://www.codingninjas.com/codestudio/problems/maximum-activities_8230800?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 5 questions, woke up early today. Solved 2 in morning, 2 in noon and 1 at night. in noon and evening joined some internship meetings, learn flutter and watched one episode of series. Now I'm not sure what to do, will just read some cs fundamentals and then sleep. Good Night.
+
+-- 12th June 2023, 09:41 PM
+
