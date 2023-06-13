@@ -135,3 +135,16 @@ Today I solved 5 questions, woke up early today. Solved 2 in morning, 2 in noon 
 
 -- 12th June 2023, 09:41 PM
 
+## Day 10 (13th June 2023):
+
+1. [Subset Sum](https://www.codingninjas.com/codestudio/problems/subset-sum_8230859?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Subsets II](https://www.codingninjas.com/codestudio/problems/subsets-ii_8230855?challengeSlug=striver-sde-challenge)
+3. [Return Subsets Sum to K](https://www.codingninjas.com/codestudio/problems/return-subsets-sum-to-k_8230706?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Combination Sum II](https://www.codingninjas.com/codestudio/problems/combination-sum-ii_8230820?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Palindrome Partitioning](https://www.codingninjas.com/codestudio/problems/palindrome-partitioning_8230726?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [K-th Permutation Sequence](https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence_8230822?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 6 questions, 2 of them morning, 2 in noon and 2 at night. morning and noon was a productive time, but at evening I was feeling bit lazy. so I watched 1 episode of series and slept for an hour, at night feeling fresh again so solved 2 questions and will learn about flutter now. Good Night.
+
