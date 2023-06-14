@@ -148,3 +148,19 @@ Today's Story:
 
 Today I solved 6 questions, 2 of them morning, 2 in noon and 2 at night. morning and noon was a productive time, but at evening I was feeling bit lazy. so I watched 1 episode of series and slept for an hour, at night feeling fresh again so solved 2 questions and will learn about flutter now. Good Night.
 
+-- 13th June 2023, 11:05 PM
+
+## Day 11 (14th June 2023):
+
+1. [Print Permutations - String](https://www.codingninjas.com/codestudio/problems/day-13-print-permutations-string_8230703?challengeSlug=striver-sde-challenge)
+2. [N Queens](https://www.codingninjas.com/codestudio/problems/n-queens_8230707?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Valid Sudoku](https://www.codingninjas.com/codestudio/problems/valid-sudoku_8230704?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Rat In a Maze All Paths](https://www.codingninjas.com/codestudio/problems/rat-in-a-maze-all-paths_8230705?challengeSlug=striver-sde-challenge)
+5. [M-Coloring Problem](https://www.codingninjas.com/codestudio/problems/m-coloring-problem_8230777?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+
+Today I solved 5 questions, last night watched series till 2 am so not able to wake up early, then in noon I completed that series, finally I will be able to focus more. about today's question solved 4 in evening, today topic was backtrack and I love it. then solved one at night. now I think I will sleep so can wake up early tomorrow and start with fresh energy. see you. Good night
+
+-- 14th June 2023, 11:28 PM
