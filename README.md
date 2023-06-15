@@ -164,3 +164,16 @@ Today's Story:
 Today I solved 5 questions, last night watched series till 2 am so not able to wake up early, then in noon I completed that series, finally I will be able to focus more. about today's question solved 4 in evening, today topic was backtrack and I love it. then solved one at night. now I think I will sleep so can wake up early tomorrow and start with fresh energy. see you. Good night
 
 -- 14th June 2023, 11:28 PM
+
+## Day 12 (15th June 2023):
+
+1. [Word Break II](https://www.codingninjas.com/codestudio/problems/word-break-ii_8230786?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Find Nth Root Of M](https://www.codingninjas.com/codestudio/problems/find-nth-root-of-m_8230799?challengeSlug=striver-sde-challenge)
+3. [Matrix Median](https://www.codingninjas.com/codestudio/problems/matrix-median_8230735?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Single Element in a Sorted Array](https://www.codingninjas.com/codestudio/problems/single-element-in-a-sorted-array_8230826?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 4 questions, woke up early today. Solved 2 in morning, 1 in noon and 1 at night. in noon and evening joined some internship meetings. At night I read some cs fundamentals and then slept. Good Night.
+
+-- 16th June 2023, 12:05 AM
