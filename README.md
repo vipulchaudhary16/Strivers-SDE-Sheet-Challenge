@@ -177,3 +177,14 @@ Today's Story:
 Today I solved 4 questions, woke up early today. Solved 2 in morning, 1 in noon and 1 at night. in noon and evening joined some internship meetings. At night I read some cs fundamentals and then slept. Good Night.
 
 -- 16th June 2023, 12:05 AM
+
+## Day 13 (16th June 2023):
+
+1. [Search In Rotated Sorted Array](https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_8230687?challengeSlug=striver-sde-challenge)
+2. [Median of two sorted arrays](https://www.codingninjas.com/codestudio/problems/median-of-two-sorted-arrays_8230788?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I was able to solve 2 questions only, there was a more work of internship and also the atmosphere is rainy and stormy so I was feeling sleepy. Tomorrow is holiday for internship so I will be free, so will try to solve more. Now I will learn flutter and then sleep. Good Night.
+
+-- 16th June 2023, 10:13 PM
