@@ -188,3 +188,13 @@ Today's Story:
 Today I was able to solve 2 questions only, there was a more work of internship and also the atmosphere is rainy and stormy so I was feeling sleepy. Tomorrow is holiday for internship so I will be free, so will try to solve more. Now I will learn flutter and then sleep. Good Night.
 
 -- 16th June 2023, 10:13 PM
+
+## Day 14 (17th June 2023):
+
+1. [Kth Element of Two Sorted Arrays](https://www.codingninjas.com/codestudio/problems/kth-element-of-two-sorted-arrays_8230824?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 1 question only, man what a lazy and busy day it was !! didn't touch laptop till 3 pm and then did some internship work that need to be done before this monday and in evening go for shopping so was not able to solve more. Now i'm feeling sleepy so will sleep. Good Night.
+
+-- 17th June 2023, 11:15 PM
