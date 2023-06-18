@@ -198,3 +198,13 @@ Today's Story:
 Today I solved 1 question only, man what a lazy and busy day it was !! didn't touch laptop till 3 pm and then did some internship work that need to be done before this monday and in evening go for shopping so was not able to solve more. Now i'm feeling sleepy so will sleep. Good Night.
 
 -- 17th June 2023, 11:15 PM
+
+## Day 15 (18th June 2023):
+
+1. [Allocate minimum number of pages GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
+
+Today's Story:
+
+Today I was able to solve 1 question only, in noon I was busy with flutter and then in evening I just slept, Now I am not able to focus more so Just solved 1 at night. Now I may sleep or do something else. Good Night.
+
+-- 18th June 2023, 10:45 PM
