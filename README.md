@@ -208,3 +208,17 @@ Today's Story:
 Today I was able to solve 1 question only, in noon I was busy with flutter and then in evening I just slept, Now I am not able to focus more so Just solved 1 at night. Now I may sleep or do something else. Good Night.
 
 -- 18th June 2023, 10:45 PM
+
+## Day 16 (19th June 2023):
+
+1. [Chess Tournament](https://www.codingninjas.com/codestudio/problems/chess-tournament_8230779?challengeSlug=striver-sde-challenge)
+2. [Min Heap](https://www.codingninjas.com/codestudio/problems/min-heap_8230863?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Kth Smallest and Largest Element of Array](https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_8230829?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [K Max Sum Combinations](https://www.codingninjas.com/studio/problems/day-29-k-max-sum-combinations_8230768?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Running Median](https://www.codingninjas.com/studio/problems/running-median_8230682?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 5 questions, a productive day. solved 2 in noon, 1 at evening and 2 at night. in noon also I had some hands on flutter. now again it's time for flutter and then sleep. Good Night.
+
+-- 19th June 2023, 10:55 PM
