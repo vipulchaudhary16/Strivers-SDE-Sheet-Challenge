@@ -222,3 +222,14 @@ Today's Story:
 Today I solved 5 questions, a productive day. solved 2 in noon, 1 at evening and 2 at night. in noon also I had some hands on flutter. now again it's time for flutter and then sleep. Good Night.
 
 -- 19th June 2023, 10:55 PM
+
+## Day 17 (20th June 2023):
+
+1. [Merge K Sorted Arrays](https://www.codingninjas.com/studio/problems/merge-k-sorted-arrays_8230770?challengeSlug=striver-sde-challenge)
+2. [K Most Frequent Elements](https://www.codingninjas.com/studio/problems/k-most-frequent-elements_8230853?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 2 questions only, woke up late today. Solved 2 of them at night, whole day I was busy with flutter and implementing some screens. Now I will see the extraction 2 movie and then sleep. Good Night.
+
+-- 20th June 2023, 09:51 PM
