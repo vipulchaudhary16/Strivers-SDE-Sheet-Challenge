@@ -233,3 +233,16 @@ Today's Story:
 Today I solved 2 questions only, woke up late today. Solved 2 of them at night, whole day I was busy with flutter and implementing some screens. Now I will see the extraction 2 movie and then sleep. Good Night.
 
 -- 20th June 2023, 09:51 PM
+
+## Day 18 (21st June 2023):
+
+1. [Implement Trie](https://www.codingninjas.com/studio/problems/implement-trie_8230696?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Implement Trie ll](https://www.codingninjas.com/studio/problems/implement-trie-ll_8230840?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Complete String](https://www.codingninjas.com/studio/problems/complete-string_8230849?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Number Of Distinct Substring](https://www.codingninjas.com/studio/problems/number-of-distinct-substring_8230842?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 4 question, three of them are Hard level questions, all are Trie question, the cool data structure to implement. solved 2 at evening and 2 at night. in noon I was busy with flutter and internship. all going good. now I will sleep. Good Night.
+
+-- 21th June 2023, 11:27 PM
