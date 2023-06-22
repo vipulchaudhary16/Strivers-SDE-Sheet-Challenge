@@ -246,3 +246,14 @@ Today's Story:
 Today I solved 4 question, three of them are Hard level questions, all are Trie question, the cool data structure to implement. solved 2 at evening and 2 at night. in noon I was busy with flutter and internship. all going good. now I will sleep. Good Night.
 
 -- 21th June 2023, 11:27 PM
+
+## Day 19 (22nd June 2023):
+
+1. [Power Set](https://www.codingninjas.com/studio/problems/power-set_8230797?challengeSlug=striver-sde-challenge)
+2. [Maximum XOR of Two Numbers in an Array](https://www.codingninjas.com/studio/problems/maximum-xor-of-two-numbers-in-an-array_8230852?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 2 questions only, woke up late today. Solved 1 of them at noon and 1 at night. in noon I was busy with flutter and internship. Good Night.
+
+-- 22nd June 2023, 11:14 PM
