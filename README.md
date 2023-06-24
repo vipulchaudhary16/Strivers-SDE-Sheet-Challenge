@@ -257,3 +257,16 @@ Today's Story:
 Today I solved 2 questions only, woke up late today. Solved 1 of them at noon and 1 at night. in noon I was busy with flutter and internship. Good Night.
 
 -- 22nd June 2023, 11:14 PM
+
+## Day 20 (23rd June 2023):
+
+1. [Maximum XOR With an Element From Array](https://www.codingninjas.com/studio/problems/maximum-xor-with-an-element-from-array_8230839?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Stack Implementation Using Array](https://www.codingninjas.com/studio/problems/stack-implementation-using-array_8230854?challengeSlug=striver-sde-challenge)
+3 [Implement a Queue](https://www.codingninjas.com/studio/problems/implement-a-queue_8230848?challengeSlug=striver-sde-challenge)
+4. [Stack using queue](https://www.codingninjas.com/studio/problems/stack-using-queue_8230715?challengeSlug=striver-sde-challenge)
+
+Today's story:
+
+On 20th day I solved 4 questions, 3 of them are implementation code so was easy and fun. In evening I was out for some shopping and on 24th I was leaving for home because of some function at my home. so I forgot to commit, committing on 24th.
+
+- 24th June 2023, 9:56 PM
