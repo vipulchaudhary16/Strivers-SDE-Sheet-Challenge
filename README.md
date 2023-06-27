@@ -270,3 +270,19 @@ Today's story:
 On 20th day I solved 4 questions, 3 of them are implementation code so was easy and fun. In evening I was out for some shopping and on 24th I was leaving for home because of some function at my home. so I forgot to commit, committing on 24th.
 
 - 24th June 2023, 9:56 PM
+
+## Day 21 (27th June 2023):
+
+1. [Queue Using Stack](https://www.codingninjas.com/studio/problems/day-25-queue-using-stack_8230722?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Valid Parentheses](https://www.codingninjas.com/studio/problems/valid-parentheses_8230714?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Next Greater Element](https://www.codingninjas.com/studio/problems/next-greater-element_8230718?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Sort a Stack](https://www.codingninjas.com/studio/problems/sort-a-stack_8230787?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Next Smaller Element](https://www.codingninjas.com/studio/problems/next-smaller-element_8230814?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [LRU Cache Implementation](https://www.codingninjas.com/studio/problems/lru-cache-implementation_8230697?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+I'm back after 3 days, I was at home for some family function. today I solved 6 questions, the real dsa is just started so I'm liking it. in noon I was busy with flutter and internship work, enjoyed a lot at home. now I will sleep. Good Night.
+
+-- 27th June 2023, 10:54 PM
+
