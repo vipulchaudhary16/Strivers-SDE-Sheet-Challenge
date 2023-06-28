@@ -286,3 +286,16 @@ I'm back after 3 days, I was at home for some family function. today I solved 6 
 
 -- 27th June 2023, 10:54 PM
 
+## Day 22 (28th June 2023):
+
+1. [LFU Cache](https://www.codingninjas.com/studio/problems/lfu-cache_8230851?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Largest rectangle in a histogram](https://www.codingninjas.com/studio/problems/largest-rectangle-in-a-histogram_8230792?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Maximum In Sliding Windows Of Size K](https://www.codingninjas.com/studio/problems/maximum-in-sliding-windows-of-size-k_8230772?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 3 questions, woke up late today. Solved 1 of them at noon and 2 at night. in noon I was busy with internship and api works, also today I completed 50% of this SDE sheet. Good Night.
+
+-- 28th June 2023, 11:22 PM
+
+
