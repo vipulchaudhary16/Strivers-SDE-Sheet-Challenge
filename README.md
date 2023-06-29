@@ -298,4 +298,16 @@ Today I solved 3 questions, woke up late today. Solved 1 of them at noon and 2 a
 
 -- 28th June 2023, 11:22 PM
 
+## Day 23 (29th June 2023):
+
+1. [Min Stack](https://www.codingninjas.com/studio/problems/min-stack_8230861?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Rotting Oranges](https://www.codingninjas.com/studio/problems/rotting-oranges_8230701?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3.  [Online Stock Span](https://www.codingninjas.com/studio/problems/online-stock-span_8230843?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 3 questions, woke up late today. Solved 1 of them at noon and 2 at night. in noon I was busy with internship work so couldn't solve much. Now I will have to sleep because I'm going to have volunteer work at college for orientation. Good Night.
+
+-- 29th June 2023, 10:43 PM
+
 
