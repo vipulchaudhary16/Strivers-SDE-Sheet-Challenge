@@ -310,4 +310,17 @@ Today I solved 3 questions, woke up late today. Solved 1 of them at noon and 2 a
 
 -- 29th June 2023, 10:43 PM
 
+## Day 24 (30th June 2023):
+
+1. [The Celebrity Problem](https://www.codingninjas.com/studio/problems/the-celebrity-problem_8230781?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Reverse Words In A String](https://www.codingninjas.com/studio/problems/reverse-words-in-a-string_8230698?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 2 questions, both of them at night. from morning to noon I was at college for some volunteer work and then when I came back I had to work on API code so did't get any time to do so. Now also im feeling tired and sleepy so will sleep. Good Night.
+
+-- 30th June 2023, 10:25 PM
+
+## Day 25 (1st July 2023):
+
 
