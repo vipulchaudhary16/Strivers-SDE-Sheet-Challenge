@@ -323,4 +323,14 @@ Today I solved 2 questions, both of them at night. from morning to noon I was at
 
 ## Day 25 (1st July 2023):
 
+1. [Maximum of minimum for every window size(GFG)](https://practice.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article) 
+2. [Longest Palindromic Substring](https://www.codingninjas.com/studio/problems/day-12-longest-palindromic-substring_8230702?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Roman Numeral To Integer](https://www.codingninjas.com/studio/problems/roman-numeral-to-integer_8230780?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Implement Atoi Function](https://www.codingninjas.com/studio/problems/implement-atoi-function_8230776?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Longest Common Prefix](https://www.codingninjas.com/studio/problems/longest-common-prefix_8230847?challengeSlug=striver-sde-challenge&leftPanelTab=0)
 
+Today's Story:
+
+Today I solved 5 questions, woke up late in morning, was not able to sleep early last night, then solved 2 in noon, one of them was Maximum of minimum for every window size which took almost 1.75 hours to solve and understand, then I watched the part two of 'The night manager series'. in evening I was out for dinner with friend and then solved 3 question at night, easy string ones. Now again I will watch that series and then sleep. Good Night.
+
+-- 1st July 2023, 10:37 PM
