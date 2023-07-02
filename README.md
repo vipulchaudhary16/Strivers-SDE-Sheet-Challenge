@@ -334,3 +334,17 @@ Today's Story:
 Today I solved 5 questions, woke up late in morning, was not able to sleep early last night, then solved 2 in noon, one of them was Maximum of minimum for every window size which took almost 1.75 hours to solve and understand, then I watched the part two of 'The night manager series'. in evening I was out for dinner with friend and then solved 3 question at night, easy string ones. Now again I will watch that series and then sleep. Good Night.
 
 -- 1st July 2023, 10:37 PM
+
+## Day 26 (2nd July 2023):
+
+1. [Search Pattern (Rabin-Karp Algorithm)](https://www.codingninjas.com/studio/problems/rabin-carp_8230831?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Find Pattern in String - KMP Algorithm](https://www.codingninjas.com/studio/problems/find-pattern-in-string-kmp-algorithm_8230819?challengeSlug=striver-sde-challenge)
+3. [Z Algorithm](https://www.codingninjas.com/studio/problems/z-algorithm_8230818?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Minimum Characters For Palindrome](https://www.codingninjas.com/studio/problems/minimum-characters-for-palindrome_8230737?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5.  [Check Permutation](https://www.codingninjas.com/studio/problems/check-permutation_8230834?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 5 question, today all questions was about string and I learnt about more algorithms for pattern matching in string like rabin-karp, kmp and z-algo. solved 3 in noon and two at night, also today I did some reactjs. It was a great day. Now I will do some miscellaneous work and then sleep. Good Night.
+
+-- 2nd July 2023, 10:55 PM
