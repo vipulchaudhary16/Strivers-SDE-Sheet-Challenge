@@ -348,3 +348,17 @@ Today's Story:
 Today I solved 5 question, today all questions was about string and I learnt about more algorithms for pattern matching in string like rabin-karp, kmp and z-algo. solved 3 in noon and two at night, also today I did some reactjs. It was a great day. Now I will do some miscellaneous work and then sleep. Good Night.
 
 -- 2nd July 2023, 10:55 PM
+
+## Day 27 (3rd July 2023):
+
+1. [Count And Say](https://www.codingninjas.com/studio/problems/count-and-say_8230807?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Compare Version Numbers](https://www.codingninjas.com/studio/problems/compare-version-numbers_8230793?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Inorder Traversal](https://www.codingninjas.com/studio/problems/inorder-traversal_8230857?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Preorder Traversal](https://www.codingninjas.com/studio/problems/preorder-traversal_8230856?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Postorder Traversal](https://www.codingninjas.com/studio/problems/postorder-traversal_8230858?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 5 questions, in morning till 11 or something I was at college for volunteer work and then I got engaged with Internship work that I did't knew how time flew. I have one habit that until I did't completed the dev feature, I can't do other things. so I solved questions at night. Now I will sleep. Good Night.
+
+-- 3rd July 2023, 11:00 PM
