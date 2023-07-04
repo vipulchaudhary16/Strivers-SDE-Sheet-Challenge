@@ -362,3 +362,17 @@ Today's Story:
 Today I solved 5 questions, in morning till 11 or something I was at college for volunteer work and then I got engaged with Internship work that I did't knew how time flew. I have one habit that until I did't completed the dev feature, I can't do other things. so I solved questions at night. Now I will sleep. Good Night.
 
 -- 3rd July 2023, 11:00 PM
+
+## Day 28 (4th July 2023):
+
+1. [Left View Of a Binary Tree](https://www.codingninjas.com/studio/problems/left-view-of-a-binary-tree_8230757?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Vertical Order Traversal](https://www.codingninjas.com/studio/challenges/striver-sde-challenge?activeProblems=true)
+3. [Bottom View Of Binary Tree](https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree_8230745?challengeSlug=striver-sde-challenge)
+4. [Top View Of Binary Tree](https://www.codingninjas.com/studio/problems/top-view-of-binary-tree_8230721?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Tree Traversals](https://www.codingninjas.com/studio/problems/tree-traversals_8230775?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 5 question all are binary tree questions, some of them are view question and I really enjoyed them. vertical order traversal was a good one. in morning I was at college and in noon I was busy with internship sprint meetings so I solved 5 of them at night.
+
+-- 4th July 2023, 11:56 PM
