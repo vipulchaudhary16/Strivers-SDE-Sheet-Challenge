@@ -376,3 +376,15 @@ Today's Story:
 Today I solved 5 question all are binary tree questions, some of them are view question and I really enjoyed them. vertical order traversal was a good one. in morning I was at college and in noon I was busy with internship sprint meetings so I solved 5 of them at night.
 
 -- 4th July 2023, 11:56 PM
+
+## Day 29 (5th July 2023):
+
+1. [Path In A Tree](https://www.codingninjas.com/studio/problems/path-in-a-tree_8230860?challengeSlug=striver-sde-challenge)
+2.  [Level Order Traversal](https://www.codingninjas.com/studio/problems/level-order-traversal_8230716?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3.  [Maximum Width In Binary Tree](https://www.codingninjas.com/studio/problems/maximum-width-in-binary-tree_8230710?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 3 questions only, as usual in morning I was at college and return back at 2, get back to work from 3 and did some internship work. I solved these 3 at night and now I will sleep or do some miscellaneous work. Good Night.
+
+-- 5th July 2023, 10:50 PM
