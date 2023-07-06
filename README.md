@@ -388,3 +388,14 @@ Today's Story:
 Today I solved 3 questions only, as usual in morning I was at college and return back at 2, get back to work from 3 and did some internship work. I solved these 3 at night and now I will sleep or do some miscellaneous work. Good Night.
 
 -- 5th July 2023, 10:50 PM
+
+## Day 30 (6th July 2023):
+
+1. [Height of the Binary Tree From Inorder and Level Order Traversal](https://www.codingninjas.com/studio/problems/height-of-the-binary-tree-from-inorder-and-level-order-traversal_8230730?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Diameter Of Binary Tree](https://www.codingninjas.com/studio/problems/diameter-of-binary-tree_8230762?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 2 questions only, as usual I was at college till noon and then got busy with internship work, so I solved 2 at night. also at night I accidentally get to know about amazon elevator test so I gave that, solved 2 questions of them, they were easy though, Now I will sleep. Good Night.
+
+-- 6th July 2023, 11:57 PM
