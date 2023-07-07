@@ -399,3 +399,13 @@ Today's Story:
 Today I solved 2 questions only, as usual I was at college till noon and then got busy with internship work, so I solved 2 at night. also at night I accidentally get to know about amazon elevator test so I gave that, solved 2 questions of them, they were easy though, Now I will sleep. Good Night.
 
 -- 6th July 2023, 11:57 PM
+
+## Day 31 (7th July 2023):
+
+1. [Is Height Balanced Binary Tree](https://www.codingninjas.com/studio/problems/is-height-balanced-binary-tree_8230771?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 1 question only, as usual I was at college till noon and then got busy with internship work, and at eventing till 9:00 pm I was at college for gala dinner, so I solved 1 at night after coming back from college. Now I have some mood of chill. Good Night.
+
+-- 7th July 2023, 9:33 PM
