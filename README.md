@@ -409,3 +409,21 @@ Today's Story:
 Today I solved 1 question only, as usual I was at college till noon and then got busy with internship work, and at eventing till 9:00 pm I was at college for gala dinner, so I solved 1 at night after coming back from college. Now I have some mood of chill. Good Night.
 
 -- 7th July 2023, 9:33 PM
+
+## Day 32 (8th July 2023):
+
+1. [LCA Of Binary Tree](https://www.codingninjas.com/studio/problems/lca-of-binary-tree_8230760?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Check Identical Trees](https://www.codingninjas.com/studio/problems/check-identical-trees_8230719?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Binary Tree Zigzag Traversal](https://www.codingninjas.com/studio/problems/binary-tree-zigzag-traversal_8230796?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Boundary Traversal of Binary Tree](https://www.codingninjas.com/studio/problems/boundary-traversal-of-binary-tree_8230712?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Maximum Path Sum Between Two Leaves](https://www.codingninjas.com/studio/problems/maximum-path-sum-between-two-leaves_8230713?challengeSlug=striver-sde-challenge)
+6. [Construct Binary Tree From Inorder and Preorder Traversal](https://www.codingninjas.com/studio/problems/construct-binary-tree-from-inorder-and-preorder-traversal_8230759?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+7. [Construct Binary Tree from Inorder and Postorder Traversal](https://www.codingninjas.com/studio/problems/construct-binary-tree-from-inorder-and-postorder-traversal_8230837?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+8. [Symmetric Tree](https://www.codingninjas.com/studio/problems/symmetric-tree_8230686?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 8 questions, all of them are binary tree questions, enjoyed. today I did not have to go college for any work so I was at room only for whole day, I did gone for shopping in noon for about 2 hours but other than that I was solving questions and resting. today I will conclude this early and will learn other things. Good Night.
+
+-- 8th July 2023, 09:26 PM
+
