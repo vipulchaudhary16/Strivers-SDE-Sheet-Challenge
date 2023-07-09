@@ -427,3 +427,13 @@ Today I solved 8 questions, all of them are binary tree questions, enjoyed. toda
 
 -- 8th July 2023, 09:26 PM
 
+## Day 33 (9th July 2023):
+
+1. [Flatten Binary Tree to Linked List](https://www.codingninjas.com/studio/problems/flatten-binary-tree-to-linked-list_8230817?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 1 question only, I was out with friend for whole day, visited some good place at my city gandhinagar. so bit of tired. so won't do much today. Good Night.
+
+-- 9th July 2023, 10:06 PM
+
