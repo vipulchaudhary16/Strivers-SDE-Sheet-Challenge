@@ -437,3 +437,19 @@ Today I solved 1 question only, I was out with friend for whole day, visited som
 
 -- 9th July 2023, 10:06 PM
 
+## Day 34 (10th July 2023):
+
+1. [Invert a Binary Tree](https://www.codingninjas.com/studio/problems/invert-a-binary-tree_8230838?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Children Sum Property](https://www.codingninjas.com/studio/problems/children-sum-property_8230711?challengeSlug=striver-sde-challenge)
+3. [Connect Nodes at Same Level](https://www.codingninjas.com/studio/problems/connect-nodes-at-same-level_8230790?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Search In BST](https://www.codingninjas.com/studio/problems/search-in-bst_8230841?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Convert Sorted Array to BST](https://www.codingninjas.com/studio/problems/convert-sorted-array-to-bst_8230836?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [Construct BST from Preorder Traversal](https://www.codingninjas.com/studio/problems/construct-bst-from-preorder-traversal_8230850?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 6 questions, it was a good motivated and energetic monday. in morning I had to visit college for some work of my friend. in noon I attended some meeting and then did some work on project and then In evening I start with DSA and solved these. it was tree questions and I'm really enjoying it. now I will sleep. Good Night.
+
+-- 10th July 2023, 11:33 PM
+
+
