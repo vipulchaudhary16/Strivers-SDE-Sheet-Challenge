@@ -452,4 +452,17 @@ Today I solved 6 questions, it was a good motivated and energetic monday. in mor
 
 -- 10th July 2023, 11:33 PM
 
+## Day 35 (11th July 2023):
+
+1. [Partial BST](https://www.codingninjas.com/studio/problems/partial-bst_8230723?challengeSlug=striver-sde-challenge)
+2.  [LCA of Two Nodes In A BST](https://www.codingninjas.com/studio/problems/lca-of-two-nodes-in-a-bst_8230778?challengeSlug=striver-sde-challenge)
+3. [Predecessor And Successor In BST](https://www.codingninjas.com/studio/problems/predecessor-and-successor-in-bst_8230742?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 3 questions, all of them are BST questions and solved at night. at other time I was busy with internship and college work. now I will sleep. Good Night.
+
+-- 11th July 2023, 10:48 PM
+
+
 

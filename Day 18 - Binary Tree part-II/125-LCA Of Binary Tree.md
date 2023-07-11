@@ -34,3 +34,24 @@ TC: O(N)
 SC: O(N)
 */
 ```
+
+#### Optimized Solution
+
+```cpp
+TreeNode<int> * lca(TreeNode<int> *root, int x, int y)
+{
+	if(!root || root->data == x || root->data == y) return root;
+
+    auto left = lca(root->left, x, y);
+    auto right = lca(root->right, x, y);
+
+    if(!left) return right;
+    else if(!right) return left;
+    else return root;
+}
+
+int lowestCommonAncestor(TreeNode<int> *root, int x, int y)
+{
+	return lca(root, x, y)->data;
+}
+```
