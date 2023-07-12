@@ -464,5 +464,18 @@ Today I solved 3 questions, all of them are BST questions and solved at night. a
 
 -- 11th July 2023, 10:48 PM
 
+# Day 36 (12th July 2023):
+
+1. [Floor in BST](https://www.codingninjas.com/studio/problems/floor-in-bst_8230753?challengeSlug=striver-sde-challenge)
+2. [Ceil from BST](https://www.codingninjas.com/studio/problems/ceil-from-bst_920464?topList=striver-sde-sheet-problems&leftPanelTab=0)
+3. [K-th largest Number BST](https://www.codingninjas.com/studio/problems/k-th-largest-number-bst_8230750?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Kth smallest node in BST](https://www.codingninjas.com/studio/problems/kth-smallest-node-in-bst_8230751?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 4 questions, all are of BST, enjoyed. in other time I was just relaxing so was not able to solve more. also at night I was not able to focus so left it for today. good night.
+
+-- 12th July 2023, 11:04 PM
+
 
 
