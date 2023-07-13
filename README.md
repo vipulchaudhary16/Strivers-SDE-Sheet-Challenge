@@ -477,5 +477,16 @@ Today I solved 4 questions, all are of BST, enjoyed. in other time I was just re
 
 -- 12th July 2023, 11:04 PM
 
+# Day 37 (13th July 2023):
+
+1. [Pair Sum in BST](https://www.codingninjas.com/studio/problems/pair-sum-in-bst_8230756?challengeSlug=striver-sde-challenge)
+2. [BST Iterator](https://www.codingninjas.com/studio/problems/bst-iterator_8230815?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 2 questions, both are same type of question but enjoyed it's optimized solutions. and in other time I was working on internship work and minor project selection. Good Night.
+
+-- 13th July 2023, 11:13 PM
+
 
 
