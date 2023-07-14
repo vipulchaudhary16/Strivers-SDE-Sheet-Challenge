@@ -488,5 +488,13 @@ Today I solved 2 questions, both are same type of question but enjoyed it's opti
 
 -- 13th July 2023, 11:13 PM
 
+# Day 38 (14th July 2023):
+
+1. [Size of Largest BST in Binary Tree](https://www.codingninjas.com/studio/problems/size-of-largest-bst-in-binary-tree_8230743?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I was able to solve 1 questions only, in morning again volunteer work at college and then had a sprint meeting of internship and the got a call from hostel warden for room migration so I was busy with till 8 pm. then I solved this one and tired so will sleep. Good Night.
+
 
 
