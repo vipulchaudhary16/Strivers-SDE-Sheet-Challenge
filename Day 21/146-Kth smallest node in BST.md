@@ -4,7 +4,7 @@
 #include <bits/stdc++.h> 
 void findKthSmall(TreeNode<int>*root, int &ans,int &k){
   if(!root || k <= 0) return;
-  findKthSmall(root->left, ans, k); //reverse in-order
+  findKthSmall(root->left, ans, k); 
   k--;
   if(k == 0){
       ans = root->data;

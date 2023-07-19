@@ -496,5 +496,21 @@ Today's Story:
 
 Today I was able to solve 1 questions only, in morning again volunteer work at college and then had a sprint meeting of internship and the got a call from hostel warden for room migration so I was busy with till 8 pm. then I solved this one and tired so will sleep. Good Night.
 
+# Day 39 (19th July 2023):
+
+1. [Serialize and Deserialize Binary Tree](https://www.codingninjas.com/studio/problems/serialize-and-deserialize-binary-tree_8230748?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Convert A Given Binary Tree To Doubly Linked List](https://www.codingninjas.com/studio/problems/convert-a-given-binary-tree-to-doubly-linked-list_8230744?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Median in a stream](https://www.codingninjas.com/studio/problems/median-in-a-stream_8230765?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Kth Largest Element In A Stream](https://www.codingninjas.com/studio/problems/kth-largest-element-in-a-stream_8230728?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Count Distinct Element in Every K Size Window](https://www.codingninjas.com/studio/problems/count-distinct-element-in-every-k-size-window_8230749?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6.  [Kth largest element in the unsorted array](https://www.codingninjas.com/studio/problems/kth-largest-element-in-the-unsorted-array_8230740?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+7. [Flood Fill Algorithm](https://www.codingninjas.com/studio/problems/flood-fill-algorithm_8230806?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 7 questions, finally back from a Mt. abu trip. enjoyed the break, now will grind till the end of the sheet. as college also going to start from next week. now I will do some miscellaneous work and then sleep. Good Night.
+
+-- 19th July 2023, 10:25 PM
+
 
 
