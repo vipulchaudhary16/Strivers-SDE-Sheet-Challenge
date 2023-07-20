@@ -512,5 +512,24 @@ Today I solved 7 questions, finally back from a Mt. abu trip. enjoyed the break,
 
 -- 19th July 2023, 10:25 PM
 
+# Day 40 (20th July 2023):
+
+1. [Clone Graph](https://www.codingninjas.com/studio/problems/clone-graph_8230812?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [DFS Traversal](https://www.codingninjas.com/studio/problems/dfs-traversal_8230690?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [BFS in Graph](https://www.codingninjas.com/studio/problems/bfs-in-graph_8230763?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Cycle Detection In Undirected Graph](https://www.codingninjas.com/studio/problems/cycle-detection-in-undirected-graph_8230798?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Detect Cycle In A Directed Graph](https://www.codingninjas.com/studio/problems/detect-cycle-in-a-directed-graph_8230794?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [Topological Sort](https://www.codingninjas.com/studio/problems/topological-sort_8230784?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 6 questions, just started with graph problems and it's really enjoyable. in noon I solved 5 of them and in evening I was out for shopping and then solved 1 at night and solved noon questions with some other approaches. now it's time to sleep. Good Night.
+
+-- 20th July 2023, 11:48 PM
+
+
+
+
+
 
 
