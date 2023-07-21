@@ -527,6 +527,19 @@ Today I solved 6 questions, just started with graph problems and it's really enj
 
 -- 20th July 2023, 11:48 PM
 
+# Day 41 (21st July 2023):
+
+1. [Find Number Of Islands](https://www.codingninjas.com/studio/problems/find-number-of-islands_8230692?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Check Bipartite Graph](https://www.codingninjas.com/studio/problems/check-bipartite-graph_8230761?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Strongly Connected Components](https://www.codingninjas.com/studio/problems/strongly-connected-components-tarjan-s-algorithm_8230789?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Dijkstra's shortest path](https://www.codingninjas.com/studio/problems/dijkstra-s-shortest-path_8230755?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+
+Today's Story:
+
+Today I solved 4 questions, doing graph these days so enjoying it. solved 2 in morning and 2 at evening, now I have some planning for movie so will do that and then sleep. Good Night.
+
+-- 21st July 2023, 09:31 PM
+
 
 
 
