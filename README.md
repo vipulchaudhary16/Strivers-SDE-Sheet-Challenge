@@ -540,7 +540,7 @@ Today I solved 4 questions, doing graph these days so enjoying it. solved 2 in m
 
 -- 21st July 2023, 09:31 PM
 
-Day 42 (22nd July 2023):
+# Day 42 (22nd July 2023):
 
 1. [Bellman Ford](https://www.codingninjas.com/studio/problems/bellman-ford_8230845?challengeSlug=striver-sde-challenge)
 2. [Floyd Warshall](https://www.codingninjas.com/studio/problems/floyd-warshall_8230846?challengeSlug=striver-sde-challenge)
@@ -550,6 +550,18 @@ Today's Story:
 On this day I solved 2 questions in noon, got sickness in evening so was not able to solve more or commit the code so I'm doing it on 24th july. was heavy sick so was not able to solve on next day too, last night I took 500mg paracetamol and slept then now I'm feeling better.
 
 -- 24th July 2023, 10:33 am
+
+# Day 43 (24nd July 2023):
+
+1. [Prim's MST](https://www.codingninjas.com/studio/problems/prim-s-mst_8230809?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Kruskal’s Minimum Spanning Tree Algorithm](https://www.codingninjas.com/studio/problems/kruskal-s-minimum-spanning-tree-algorithm_8230804?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 2 questions, both are MST questions, today was the first day of my 7th semester so was busy with it till morning, and then I solved one at morning around 10 am. and then I went for class where I solved one question of Union set in lobby. last by night I solved the Krukal's MST. now I will sleep. Good Night.
+
+-- 24th July 2023, 10:24 PM
+
 
 
 
