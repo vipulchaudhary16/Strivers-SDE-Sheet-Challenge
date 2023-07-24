@@ -4,33 +4,36 @@
 #include <bits/stdc++.h> 
 
 vector<int> dijkstra(vector<vector<int>> &vec, int v, int e, int source) {
-    vector<int> dis(v,INT_MAX);
-    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>> > pq;
-    
-    vector<pair<int,int>> adj[v];
-    for(auto i:vec)
-    {
-        adj[i[0]].push_back({i[1],i[2]});
-        adj[i[1]].push_back({i[0],i[2]});
+    vector<int> dist(v,INT_MAX);
+    priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+
+    unordered_map<int, vector<pair<int, int>>> adjList; // {node -> {neighbor, weight}}
+
+    for(auto edge: vec){
+        adjList[edge[0]].push_back({edge[1], edge[2]});
+        adjList[edge[1]].push_back({edge[0], edge[2]});
     }
 
-    pq.push({0,source});//first --> dis // second is node
-    dis[source]=0;
+    pq.push({0, source});
+    dist[source] = 0;
 
-    while(!pq.empty())
-    { 
-        int cdis = pq.top().first;
-        int cnode = pq.top().second;
+    while(!pq.empty()){
+        int currentNode = pq.top().second;
+        int currentDistance = pq.top().first;
         pq.pop();
-        for(auto adjn: adj[cnode])
-        {
-            if((adjn.second+cdis<dis[adjn.first]))
-            {     
-                dis[adjn.first]=cdis+adjn.second;
-                pq.push({dis[adjn.first],adjn.first});
+
+        for(auto adj: adjList[currentNode]){
+            if(dist[adj.first] > currentDistance + adj.second){
+                dist[adj.first] = currentDistance + adj.second;
+                pq.push({dist[adj.first], adj.first});
             }
         }
     }
-    return dis;
+
+    return dist;
 }
+/*
+TC: O(nlogn + m) where n is the number of vertices and m is the number of edges
+SC: O(n)
+*/
 ```
