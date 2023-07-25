@@ -562,6 +562,22 @@ Today I solved 2 questions, both are MST questions, today was the first day of m
 
 -- 24th July 2023, 10:24 PM
 
+# Day 44 (25th July 2023):
+
+1. [Maximum Product Subarray](https://www.codingninjas.com/studio/problems/maximum-product-subarray_8230828?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+2. [Longest Increasing Subsequence](https://www.codingninjas.com/studio/problems/longest-increasing-subsequence_8230689?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Longest Common Subsequence](https://www.codingninjas.com/studio/problems/longest-common-subsequence_8230681?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [0 1 Knapsack](https://www.codingninjas.com/studio/problems/0-1-knapsack_8230801?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Edit Distance](https://www.codingninjas.com/studio/problems/edit-distance_8230685?challengeSlug=striver-sde-challenge)
+6. [Maximum Sum Increasing Subsequence](https://www.codingninjas.com/studio/problems/maximum-sum-increasing-subsequence_8230821?challengeSlug=striver-sde-challenge)
+7. [Matrix Chain Multiplication](https://www.codingninjas.com/studio/problems/matrix-chain-multiplication_8230769?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 7 questions, all are DP questions and I really enjoyed them as I have completed the dp series by striver. solved them in noon. now I will sleep. Good Night.
+
+-- 25th July 2023, 10:26 PM
+
 
 
 
