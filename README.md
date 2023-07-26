@@ -578,6 +578,24 @@ Today I solved 7 questions, all are DP questions and I really enjoyed them as I 
 
 -- 25th July 2023, 10:26 PM
 
+# Day 45 (26th July 2023):
+
+1. [Minimum Path Sum](https://www.codingninjas.com/studio/problems/minimum-path-sum_8230791?challengeSlug=striver-sde-challenge)
+2. [Ways To Make Coin Change](https://www.codingninjas.com/studio/problems/ways-to-make-coin-change_8230691?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+3. [Subset Sum Equal To K](https://www.codingninjas.com/studio/problems/subset-sum-equal-to-k_8230844?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+4. [Rod cutting problem](https://www.codingninjas.com/studio/problems/rod-cutting-problem_8230727?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+5. [Cut Logs](https://www.codingninjas.com/studio/problems/cut-logs_8230782?challengeSlug=striver-sde-challenge&leftPanelTab=0)
+6. [Word Break](https://www.codingninjas.com/studio/problems/word-break_8230808?challengeSlug=striver-sde-challenge)
+7. [Palindrome Partitioning ll](https://www.codingninjas.com/studio/problems/palindrome-partitioning-ll_8230732?challengeSlug=striver-sde-challenge)
+
+Today's Story:
+
+Today I solved 7 questions, the last portion of DP, solved some at morning and at evening, in noon I had blood test so I was resting up. finally I have completed the sheet, learned a lot. now it's time to learn some other things and grind for placement. Good Night.
+
+-- 26th July 2023, 10:45 PM
+
+# THE END BUT BEGINNING OF NEW JOURNEY
+
 
 
 
